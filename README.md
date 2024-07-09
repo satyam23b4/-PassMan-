@@ -12,11 +12,12 @@ PassMan is a secure, user-friendly password manager designed to help you store a
 - **Search Functionality**: Quickly find the passwords you need with a robust search feature.
 
 ## Technologies Used
-- **Frontend**: [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/)
-- **Backend**: [Node.js](https://nodejs.org/)
+- **Frontend**: [React.js](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/)
+- **Backend**: [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/)
 - **Database**: [MongoDB](https://www.mongodb.com/)
 - **Authentication**: [JWT (JSON Web Tokens)](https://jwt.io/)
 - **Encryption**: [AES (Advanced Encryption Standard)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
+- **Deployment**: [vite](https://vitejs.dev/)
 
 ## Getting Started
 To get a local copy up and running, follow these simple steps.
