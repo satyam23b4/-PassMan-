@@ -1,4 +1,4 @@
-# PassMan
+# <PassMan/>
 
 ## Overview
 PassMan is a secure, user-friendly password manager designed to help you store and manage your passwords effortlessly. With the increasing number of online accounts, keeping track of passwords can be challenging. PassMan aims to simplify this by providing a centralized, encrypted storage solution for all your passwords.
